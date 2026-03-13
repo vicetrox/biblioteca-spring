@@ -10,6 +10,6 @@ public class HolaMundoController {
     @GetMapping("/hola")
 
     public String holamundo(){
-        return "Viernes De Therians!";
+        return "Viernes De Therians y Furros!";
     }
 }
